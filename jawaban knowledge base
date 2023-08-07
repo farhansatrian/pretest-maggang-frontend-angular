@@ -1,0 +1,13 @@
+1. Rest API: Arsitektur untuk membuat web service dengan prinsip tertentu, biasanya menggunakan HTTP dan mengembalikan data dalam format JSON atau XML.
+
+2. Server side and Client side processing:<br>
+Server-side: Proses yang terjadi di server, misalnya mengakses database.
+Client-side: Proses yang terjadi di browser, biasanya melibatkan JavaScript.
+
+3. Design pattern Dependency Injection: Teknik di mana objek menerima ketergantungan dari objek lain, memudahkan pengujian dan pemeliharaan.
+
+4. Typescript dan Angular framework:
+TypeScript: Versi JavaScript dengan tipe statis, dikembangkan oleh Microsoft.
+Angular: Framework front-end yang menggunakan TypeScript, dikembangkan oleh Google.
+
+5. Microfrontend: Pendekatan di mana aplikasi front-end dibagi menjadi bagian-bagian kecil yang dapat dikembangkan secara independen.
